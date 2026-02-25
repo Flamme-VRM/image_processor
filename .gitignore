@@ -1,0 +1,37 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Large model weights (Real-ESRGAN, EDSR, etc.)
+models/
+*.pth
+*.pb
+*.onnx
+
+# Project-specific output and temp files
+processed_results/
+output_processed/
+*.zip
+*.tar.gz
+*.rar
+*.7z
+public/
+temp/
+tmp/
+
+# Logs
+*.log
+
+# Editor and OS-specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
