@@ -6,6 +6,7 @@ A high-performance, professional-grade tool for batch image processing. This app
 
 ## 📽️ Application Demo
 ![App Demo](demo.gif)
+
 *(Above is a demonstration of the batch processing workflow and AI upscaling capabilities.)*
 
 ---
